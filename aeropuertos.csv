@@ -1,0 +1,11 @@
+iata,nombre,ciudad,pais,latitud,longitud,conexiones
+SAL,Monseñor Óscar Arnulfo Romero International Airport,San Salvador,El Salvador,13.4409,-89.0557,9
+SJO,Juan Santamaria International Airport,San Jose,Costa Rica,9.9939,-84.2088,7
+PTY,Tocumen International Airport,Panama City,Panama,9.0714,-79.3835,7
+GUA,La Aurora Airport,Guatemala City,Guatemala,14.5833,-90.5275,7
+SAP,Ramón Villeda Morales International Airport,San Pedro Sula,Honduras,15.4526,-87.9236,7
+TGU,Toncontín International Airport,Tegucigalpa,Honduras,14.0609,-87.2172,6
+RTB,Juan Manuel Galvez International Airport,Roatan,Honduras,16.3168,-86.523,5
+MGA,Augusto C. Sandino (Managua) International Airport,Managua,Nicaragua,12.1415,-86.1682,4
+LIR,Daniel Oduber Quiros International Airport,Liberia,Costa Rica,10.5933,-85.5444,3
+BZE,Philip S. W. Goldson International Airport,Belize City,Belize,17.5391,-88.3082,3
